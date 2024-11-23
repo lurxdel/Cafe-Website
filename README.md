@@ -1,7 +1,15 @@
 # Cafe Website
-A simple shopping website using HTML and CSS.
+## Project Overview  
+This is a **simple shopping website** designed using **HTML** and **CSS**, showcasing basic web development concepts and design principles. The project serves as a demonstration of creating visually appealing and user-friendly web pages using only fundamental web technologies.  
 
-In Partial Fulfillment on the subject in school we create this website.
+### Purpose  
+This website was developed as part of our coursework to fulfill partial requirements for a subject in school. The goal was to apply the concepts learned in class and gain hands-on experience in creating a functional and aesthetically pleasing website.  
+
+### Features  
+- A clean and responsive design  
+- Basic shopping layout with product listings  
+- Static web pages showcasing structured content and styling  
+
 
 ![Home](https://github.com/user-attachments/assets/d32a4230-d4e2-4f52-8d84-0f4036e8691a)
 ![Menu](https://github.com/user-attachments/assets/754e6950-0e4f-425b-b549-b7b9f11c4f48)
@@ -9,9 +17,11 @@ In Partial Fulfillment on the subject in school we create this website.
 ![Contact](https://github.com/user-attachments/assets/59b88906-dbb6-4f6f-82ae-af65660bd18d)
 ![Purchased](https://github.com/user-attachments/assets/4b1f251f-7784-4be4-a859-838641d38e7e)
 
-
 ## Visit Website Here
 https://github.com/lurxdel/Cafe-Website/deployments/github-pages
+
+### Acknowledgment  
+We are grateful to our instructors for their guidance and support throughout the development of this project. This work reflects our learning journey and the collaborative efforts of the team.  
 
 ## Support Me
 If you like my work or find it helpful, you can support me by:
