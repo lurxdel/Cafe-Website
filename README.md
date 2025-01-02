@@ -17,7 +17,7 @@ This website was developed as part of our coursework to fulfill partial requirem
 ![Contact](https://github.com/user-attachments/assets/59b88906-dbb6-4f6f-82ae-af65660bd18d)
 ![Purchased](https://github.com/user-attachments/assets/4b1f251f-7784-4be4-a859-838641d38e7e)
 
-## Visit Website Here
+## Visit the Website
 [Click Here to Explore](https://lurxdel.github.io/Cafe-Website/)
 
 > **Note:**  
