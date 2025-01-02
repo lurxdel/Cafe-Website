@@ -18,7 +18,11 @@ This website was developed as part of our coursework to fulfill partial requirem
 ![Purchased](https://github.com/user-attachments/assets/4b1f251f-7784-4be4-a859-838641d38e7e)
 
 ## Visit Website Here
-https://lurxdel.github.io/Cafe-Website/
+[Click Here to Explore](https://lurxdel.github.io/Cafe-Website/)
+
+> **Note:**  
+> - The website is currently not fully responsive across all devices.  
+> - Some features may not function as intended, and the site might experience occasional crashes.  
 
 ### Acknowledgment  
 We are grateful to our instructors for their guidance and support throughout the development of this project. This work reflects our learning journey and the collaborative efforts of the team.  
